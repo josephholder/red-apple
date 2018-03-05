@@ -18,7 +18,7 @@ The show response requires the id of the playlist in the url. The response is a 
 
 The url to delete a playlist: /api/v1/playlist/{id:}  
 
-The delete request requires the id of the playlist in the url. This will remove the playlist and its relationship to track and artists
+The delete request requires the id of the playlist in the url. This will remove the playlist and its relationship to tracks and artists
 
 Validation:  
 
