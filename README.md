@@ -8,7 +8,7 @@ Have built a laravel application according to the test. The application can stor
 
 The url to store a playlist: /api/v1/playlist  
 
-Below is a json object that can respond with the api, the relationships are many tracks to one playlist and many artists to one track.
+Below is a json object that can respond with the api, the relationships are many tracks to one playlist and many artists to one track.  
 { "name": "name", "tracks": [ { "title": "title 1", "artists": [ "artist 1", "artist 2" ] } ] }
 
 The url to show a playlist: /api/v1/playlist/{id:}  
